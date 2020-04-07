@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WGDropDownMenu (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WGDropDownMenu (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WGDropDownMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WGDropDownMenu: b24ccb07eb0091b3c7953c1a8a7eab4ac7f150a5
+
+PODFILE CHECKSUM: 4c95775a6a97625bb39a6c2c57a0bef85ef08b39
+
+COCOAPODS: 1.8.4

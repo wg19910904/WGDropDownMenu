@@ -1,0 +1,6 @@
+framework module WGDropDownMenu {
+  umbrella header "WGDropDownMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
